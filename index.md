@@ -8,12 +8,12 @@ Self-motivated and independent Software Engineer with excellent knowledge of dat
 
 <div style="float:right"> September 20xx– Present </div> <div align = "left"> <strong>Bachelor of Science </strong></div>
 
-Major: Computer Science
-University of Manitoba 
-Relevant courses: Software Engineering, Analysis of Algorithms and Data Structures, Technical Communication in Computer Science
+Major: Computer Science<br>
+University of Manitoba<br>
+Relevant courses: Software Engineering, Analysis of Algorithms and Data Structures, Technical Communication in Computer Science<br>
 GPA: 4.0/4.5 
 
-**Programming Languages:**  Java, C++,  Assembly, Fortran, Protel, Visual Basic 
+**Programming Languages:**  Java, C++,  Assembly, Fortran, Protel, Visual Basic<br> 
 **Operating Systems:**    UNIX, DOS, VAX/VMS, Linux, Windows 
 
 #### <ins>RELEVANT SKILLS </ins>
@@ -50,5 +50,5 @@ in a fast manner for suite application needs
 *  Utilized HTML to update the website ensuring that information about adoptable animals is communicated 
 effectively to prospective adopters.  
 
-#### <ins>Interests</ins>
+##### <ins>Interests</ins>
 *  Running, camping, reading and soccer 
