@@ -1,9 +1,10 @@
-#JANE DOE  
+# JANE DOE  
 <div align="center">(204) 555-5511 | Email: janedoe@email.ca | Linkedin.com/profile/JaneDoe</div>
 
 ___
 Self-motivated and independent Software Engineer with excellent knowledge of data structures, algorithms, and software design. Proven ability to communicate strongly in a team that focuses on the impact of projects.
-####<ins>EDUCATION</ins> 
+
+#### <ins>EDUCATION</ins> 
 
 <div style="float:right"> September 20xx– Present </div> <div align = "left"> <strong>Bachelor of Science </strong></div>
 
@@ -15,19 +16,19 @@ GPA: 4.0/4.5
 **Programming Languages:**  Java, C++,  Assembly, Fortran, Protel, Visual Basic 
 **Operating Systems:**    UNIX, DOS, VAX/VMS, Linux, Windows 
 
-####<ins>RELEVANT SKILLS </ins>
-#####Software Engineering Skills 
+#### <ins>RELEVANT SKILLS </ins>
+##### Software Engineering Skills 
 *  Approached software development projects in a team utilizing agile and interactive development team to 
 respond to change  
 *  Utilized data structure to keep data in memory for the purpose of data being queued, fetched, and updated 
 in a fast manner for suite application needs  
 *  Tested and fixed software for bugs resulting in documenting processes to increase efficiency by 18%  
 
-#####Communication Skills  
+##### Communication Skills  
 *  Communicated effectively in a team to develop an app and present the app to a class of 65 students    
 *  Developed strong written communication skills by updating a website for a non-profit organization resulting in excellent customer feedback 
 
-####<ins>EMPLOYMENT HISTORY</ins> 
+#### <ins>EMPLOYMENT HISTORY</ins> 
 
 <div style="float:right">July 20xx – Present</div> <div align = "left"> <strong>Sales Associate, </strong>Ricki’s</div>   
 
@@ -39,7 +40,7 @@ in a fast manner for suite application needs
 *  Worked as a team to determine schedule and completion of various landscaping tasks 
 *  Organized tasks to ensure weather sensitive duties were completed during optimal weather conditions and additional labour tasks when weather permitted 
 
-####<ins>VOLUNTEER EXPERIENCE</ins>  
+#### <ins>VOLUNTEER EXPERIENCE</ins>  
 <div style="float:right">20xx – 20xx</div> <div align = "left"> <strong>Vice-president of Events, </strong>University of Manitoba Crew for Software Engineering Conference</div>  
 
 *  Ensured events ran smoothly the by communicating with all stakeholders involved in the event  
@@ -49,5 +50,5 @@ in a fast manner for suite application needs
 *  Utilized HTML to update the website ensuring that information about adoptable animals is communicated 
 effectively to prospective adopters.  
 
-#####<ins>Interests</ins>
+#### <ins>Interests</ins>
 *  Running, camping, reading and soccer 
