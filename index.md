@@ -6,7 +6,7 @@ Self-motivated and independent Software Engineer with excellent knowledge of dat
 
 #### <ins>EDUCATION</ins> 
 
-<div style="float:right"> September 20xx– Present </div> <div align = "left"> <strong>Bachelor of Science </strong></div>
+<div style="float:right"> December 2018 – Present </div> <div align = "left"> <strong>Bachelor of Science </strong></div>
 
 Major: Computer Science<br>
 University of Manitoba<br>
@@ -30,22 +30,22 @@ in a fast manner for suite application needs
 
 #### <ins>EMPLOYMENT HISTORY</ins> 
 
-<div style="float:right">July 20xx – Present</div> <div align = "left"> <strong>Sales Associate, </strong>Ricki’s</div>   
+<div style="float:right">July 2020 – Present</div> <div align = "left"> <strong>Sales Associate, </strong>Ricki’s</div>   
 
 *  Greeted customers and determined their specific needs in order to provide tailored service 
 
 *  Exceeded sales targets on a consistent basis to contribute to overall store profitability 
-<div style="float:right">May 20xx- August 20xx</div> <div align = "left"> <strong>Labourer, </strong>City of Winnipeg</div>  
+<div style="float:right">May 2019 - July 2020</div> <div align = "left"> <strong>Labourer, </strong>City of Winnipeg</div>  
 
 *  Worked as a team to determine schedule and completion of various landscaping tasks 
 *  Organized tasks to ensure weather sensitive duties were completed during optimal weather conditions and additional labour tasks when weather permitted 
 
 #### <ins>VOLUNTEER EXPERIENCE</ins>  
-<div style="float:right">20xx – 20xx</div> <div align = "left"> <strong>Vice-president of Events, </strong>University of Manitoba Crew for Software Engineering Conference</div>  
+<div style="float:right">2020 – 2021</div> <div align = "left"> <strong>Vice-president of Events, </strong>University of Manitoba Crew for Software Engineering Conference</div>  
 
 *  Ensured events ran smoothly the by communicating with all stakeholders involved in the event  
 *  Planned events in a team of 25 volunteers connecting student with worldwide events such as hackathons 
-<div style="float:right">20xx – 20xx</div> <div align = "left"> <strong>Website Volunteer, </strong>Manitoba Mutts Dog Rescue</div> 
+<div style="float:right">2019 – 2020</div> <div align = "left"> <strong>Website Volunteer, </strong>Manitoba Mutts Dog Rescue</div> 
 
 *  Utilized HTML to update the website ensuring that information about adoptable animals is communicated 
 effectively to prospective adopters.  
