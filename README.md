@@ -8,11 +8,11 @@ The purpose of this README is to explain how to host and format a resume in a ma
 
 
 ### Instructions, including animated GIF
-
+![Resume](https://github.com/Rhushabh12/Rhushabh12.github.io/blob/main/resume.gif)
 *	#### GitHub Pages
     * **Account creation and creating a repository.**
-        1. Create an account on GitHub. 
-        2. Create a new repository, while creating the name of the repository should be in this “Git_user_name.gitgub.io”. The user name can be found from the right-top cornor. 
+        1. Create an account on [GitHub](https://github.com/). 
+        2. Create a new repository, the name of the repository should be in this “Git_user_name.gitgub.io” format. The user name can be found from the right-top cornor. However, if you are not able to find, how to access your repository. Logo: ![Drop down button] (https://github.com/Rhushabh12/Rhushabh12.github.io/blob/main/logo.JPG"drop_down_button") check for this logo in your screen. When pressing it will show a dropdown menue, look for "your repositories" option. This will take you to your repositories, then press on ![new repo](https://github.com/Rhushabh12/Rhushabh12.github.io/blob/main/new_repo.JPG"new_button") this button. 
         3. After you enter a username, you can put some description for this repository if you want as it is optional. 
         4. Set this repository public as when any employer wants to see your resume, they can access it.
         5. then the last option is to add a readme file, you just must check the box which says, “ADD a README file”.
