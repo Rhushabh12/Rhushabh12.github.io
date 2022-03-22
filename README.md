@@ -1,4 +1,4 @@
-## Hosting a Resume on static site
+# Hosting a Resume on static site
 
 ### Purpose
 The purpose of this README is to explain how to host and format a resume in a markdown file using software like GitHub pages, and Jekyll. The language that we will be using for formatting our resume is the markup language. I will using the general principles of current Technical Writing, which is explained in Andrew Etter’s book “Modern Technical Writing”. 
