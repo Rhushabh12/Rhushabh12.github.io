@@ -1,15 +1,15 @@
 # Hosting a Resume on static site
 
-### Purpose
+## Purpose
 The purpose of this README is to explain how to host and format a resume in a markdown file using software like GitHub pages, and Jekyll. The language that we will be using for formatting our resume is the markup language. I will using the general principles of current Technical Writing, which is explained in Andrew Etter’s book “Modern Technical Writing”. 
 
-### Prerequisites 
+## Prerequisites 
 *	A resume formatted in Markdown.
 
 
-### Instructions, including animated GIF
+## Instructions, including animated GIF
 ![Resume](https://github.com/Rhushabh12/Rhushabh12.github.io/blob/main/resume.gif)
-*	#### GitHub Pages
+*	### GitHub Pages
     * **Account creation and creating a repository.**
         1. Create an account on [GitHub](https://github.com/). 
         2. Create a new repository, the name of the repository should be in this **Git_user_name.gitgub.io** format. The user name can be found from the right-top cornor. However, if you are not able to find, how to access your repository. Logo: ![Drop](https://github.com/Rhushabh12/Rhushabh12.github.io/blob/main/logo.png) check for this logo in your screen. When pressing it will show a dropdown menu, look for "your repositories" option. This will take you to your repositories, then press on ![new](https://github.com/Rhushabh12/Rhushabh12.github.io/blob/main/new_repo.png) this button. 
@@ -32,31 +32,31 @@ The purpose of this README is to explain how to host and format a resume in a ma
         5.	On this page there are few good options available, the default screen will show you the edit file screen.
         6.	The first thing we will need is to name the file. There is a dialogue box that says “**Name your file…**” click there. Now there are few different formats that we need to keep in mind. For resume, the name of the file should be **index.md**, the README file should be the standard all caps **README.md** and the last file which I need is “**yml**” format file, I will explain that format in the Jekyll part.  
         7.	Besides the edit file option there is a ![Preview](https://github.com/Rhushabh12/Rhushabh12.github.io/blob/main/preview_option.PNG) option for instance, if I do the formatting in markdown then I can see how it will be viewed on the screen in that preview option.
-*	#### Jekyll
+*	### Jekyll
     Static websites are good, it does not have any installation, no database, and nothing to install. There are many static site generators that exist, we will be using I am using Jekyll which is also suggested by Andrew Etter.
     1.	The first step is to create a file named “_config.yml”. you can just copy-paste the name while creating as the naming part is very important in Jekyll. 
     2.	In the _config.yml file you will see a line of code, that code for theme purpose. After we are done with all the steps, you will be able to see the resume on a static site, without the yml file there will be no theme.
     3.	When you are done with creating the yml file last thing is to check all the file names.
     4.	Even if you have named it something else it can be changed by editing the file (refer to the “Option for editing on GitHub pages”).
 
-*	#### Last checking
+*	### Last checking
     1.	Name of the repository “git_user_name.github.io” in this format.
     2.	Resume is in the file named “index.md”.
     3.	The name of the yml file is “_config.yml”.
-*	#### Running 
+*	### Running 
     1.	Copy the name of the repository and paste in it on any browser (search URL) and now the resume can be seen on the site. 
 
 
-### More Resources: include: 
+## More Resources: include: 
 1. A Markdown tutorial: [Language-Tutorial](https://helloacm.com/markdown-markup-language-quick-tutorial/)
 
 2. A link to Etter’s book: [Book](https://www.amazon.ca/Modern-Technical-Writing-Introduction-Documentation-ebook/dp/B01A2QL9SS)
 
 3. Using Jekyll with GitHub pages: [Tutorial](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll) 
 
-### Authors and Acknowledgments: credit template authors and group members
+## Authors and Acknowledgments: credit template authors and group members
 
-### FAQs Add (and answer) two FAQs, as described below:
+## FAQs Add (and answer) two FAQs, as described below:
 
 1. A question about the overall process, such as "Why is Markdown better than a word 
 processor?"
