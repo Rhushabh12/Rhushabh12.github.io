@@ -44,6 +44,7 @@ The purpose of this README is to explain how to host and format a resume in a ma
           4.	Even if you have named it something else it can be changed by editing the file (refer to "GitHub pages” above).
 
 *	### Last checking
+*	Check the repository and files inside the repository.
     1.	Name of the repository “git_user_name.github.io” in this format.
     2.	Resume is in the file named “index.md”.
     3.	The name of the yml file is “_config.yml”.
