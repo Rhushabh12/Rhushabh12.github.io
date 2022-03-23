@@ -13,7 +13,7 @@ The purpose of this README is to explain how to host and format a resume in a ma
 
 
 *	### GitHub Pages
-*	Static websites are good, it does not have any installation, no database, and nothing else to install. I am using GitHub Pages for hosting my website, which is also suggested by Andrew Etter.
+*	Static websites are good, it does not have any installation, no database, and nothing else to install. I am using GitHub Pages for hosting my website, which is also suggested by Etter.
     * **Account creation and creating a repository.** 
         1. Create a new repository, the name of the repository should be in this "**Git_user_name.gitgub.io**" format. The username can be found in the right-top corner. However, if you are not able to find, how to access your repository, ![Drop](https://github.com/Rhushabh12/Rhushabh12.github.io/blob/main/logo.png) check for this logo in your screen. When pressing it will show a dropdown menu, look for the "your repositories" option. This will take you to your repositories, then press on ![new](https://github.com/Rhushabh12/Rhushabh12.github.io/blob/main/new_repo.png) this button. 
         2. After naming the file, you can put some description for this repository if you want in the discription box, as it is optional. 
